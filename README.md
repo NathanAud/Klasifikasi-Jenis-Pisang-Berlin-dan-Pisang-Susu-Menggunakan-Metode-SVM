@@ -45,5 +45,5 @@ Sistem menerima masukan fitur-fitur dari ketiga sensor. Lalu, dilakukan standard
     * Python:
         * [matplotlib](https://matplotlib.org)
         * [pandas](https://pandas.pydata.org)
-        * [scikit-learn](scikit-learn.org/)
+        * [scikit-learn](https://scikit-learn.org/)
         * [micromlgen](https://eloquentarduino.com/libraries/micromlgen/)
